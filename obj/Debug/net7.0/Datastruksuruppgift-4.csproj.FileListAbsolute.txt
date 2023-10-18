@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\bin\Debug\net7.0\Datastruksuruppgift-4.exe
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\bin\Debug\net7.0\Datastruksuruppgift-4.deps.json
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\bin\Debug\net7.0\Datastruksuruppgift-4.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\bin\Debug\net7.0\Datastruksuruppgift-4.dll
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\bin\Debug\net7.0\Datastruksuruppgift-4.pdb
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.dll
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\refint\Datastruksuruppgift-4.dll
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.pdb
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\Datastruksuruppgift-4.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Egen-webbplats\GA-Arbete\Datastruksuruppgift-4\obj\Debug\net7.0\ref\Datastruksuruppgift-4.dll
